@@ -1,0 +1,27 @@
+#set-height {
+  display: block;
+}
+#v0 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+p font-family helvetica {
+  font-size: 24px;
+}
+h1 {
+  position: fixed;
+  top: 80%;
+  left: 80%;
+  width: 20%;
+  transform: translate(-50%,-50%);
+  z-index: 99;
+  font-family: HelveticaNeue, Helvetica, sans-serif;
+  font-size:8vmin;
+  text-align:center;
+  color: white;
+  
+}
+
+
